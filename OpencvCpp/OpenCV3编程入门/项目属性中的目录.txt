@@ -1,0 +1,4 @@
+../ThirdPatry/install/include/opencv2
+../ThirdPatry/install/include
+../ThirdPatry/install/x64/vc16/lib
+opencv_world470d.lib
