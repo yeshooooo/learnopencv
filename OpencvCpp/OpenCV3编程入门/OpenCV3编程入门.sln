@@ -13,7 +13,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_canny边缘检测", "04_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_播放视频", "05_播放视频\05_播放视频.vcxproj", "{BE4DCC6E-2848-4A71-B048-BA5FAFD7C2E1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_利用imwrite生成透明png图像", "16_利用imwrite生成透明png图像\16_利用imwrite生成透明png图像.vcxproj", "{A427298C-D99A-48EC-B7BA-5CECAD1B0D9C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15_利用imwrite生成透明png图像", "16_利用imwrite生成透明png图像\16_利用imwrite生成透明png图像.vcxproj", "{A427298C-D99A-48EC-B7BA-5CECAD1B0D9C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_程序的载入显示与输出", "16_程序的载入显示与输出\16_程序的载入显示与输出.vcxproj", "{E03D6540-FEC0-4C3C-9A3C-5F2AFBFD07BD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_滑动条", "17_滑动条\17_滑动条.vcxproj", "{52B89F65-40B0-4016-8DAB-1EC0E95AFF11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_鼠标操作", "18_鼠标操作\18_鼠标操作.vcxproj", "{13533225-8BFB-4D52-9062-4CFFEA91AC21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +77,30 @@ Global
 		{A427298C-D99A-48EC-B7BA-5CECAD1B0D9C}.Release|x64.Build.0 = Release|x64
 		{A427298C-D99A-48EC-B7BA-5CECAD1B0D9C}.Release|x86.ActiveCfg = Release|Win32
 		{A427298C-D99A-48EC-B7BA-5CECAD1B0D9C}.Release|x86.Build.0 = Release|Win32
+		{E03D6540-FEC0-4C3C-9A3C-5F2AFBFD07BD}.Debug|x64.ActiveCfg = Debug|x64
+		{E03D6540-FEC0-4C3C-9A3C-5F2AFBFD07BD}.Debug|x64.Build.0 = Debug|x64
+		{E03D6540-FEC0-4C3C-9A3C-5F2AFBFD07BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{E03D6540-FEC0-4C3C-9A3C-5F2AFBFD07BD}.Debug|x86.Build.0 = Debug|Win32
+		{E03D6540-FEC0-4C3C-9A3C-5F2AFBFD07BD}.Release|x64.ActiveCfg = Release|x64
+		{E03D6540-FEC0-4C3C-9A3C-5F2AFBFD07BD}.Release|x64.Build.0 = Release|x64
+		{E03D6540-FEC0-4C3C-9A3C-5F2AFBFD07BD}.Release|x86.ActiveCfg = Release|Win32
+		{E03D6540-FEC0-4C3C-9A3C-5F2AFBFD07BD}.Release|x86.Build.0 = Release|Win32
+		{52B89F65-40B0-4016-8DAB-1EC0E95AFF11}.Debug|x64.ActiveCfg = Debug|x64
+		{52B89F65-40B0-4016-8DAB-1EC0E95AFF11}.Debug|x64.Build.0 = Debug|x64
+		{52B89F65-40B0-4016-8DAB-1EC0E95AFF11}.Debug|x86.ActiveCfg = Debug|Win32
+		{52B89F65-40B0-4016-8DAB-1EC0E95AFF11}.Debug|x86.Build.0 = Debug|Win32
+		{52B89F65-40B0-4016-8DAB-1EC0E95AFF11}.Release|x64.ActiveCfg = Release|x64
+		{52B89F65-40B0-4016-8DAB-1EC0E95AFF11}.Release|x64.Build.0 = Release|x64
+		{52B89F65-40B0-4016-8DAB-1EC0E95AFF11}.Release|x86.ActiveCfg = Release|Win32
+		{52B89F65-40B0-4016-8DAB-1EC0E95AFF11}.Release|x86.Build.0 = Release|Win32
+		{13533225-8BFB-4D52-9062-4CFFEA91AC21}.Debug|x64.ActiveCfg = Debug|x64
+		{13533225-8BFB-4D52-9062-4CFFEA91AC21}.Debug|x64.Build.0 = Debug|x64
+		{13533225-8BFB-4D52-9062-4CFFEA91AC21}.Debug|x86.ActiveCfg = Debug|Win32
+		{13533225-8BFB-4D52-9062-4CFFEA91AC21}.Debug|x86.Build.0 = Debug|Win32
+		{13533225-8BFB-4D52-9062-4CFFEA91AC21}.Release|x64.ActiveCfg = Release|x64
+		{13533225-8BFB-4D52-9062-4CFFEA91AC21}.Release|x64.Build.0 = Release|x64
+		{13533225-8BFB-4D52-9062-4CFFEA91AC21}.Release|x86.ActiveCfg = Release|Win32
+		{13533225-8BFB-4D52-9062-4CFFEA91AC21}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
